@@ -25,7 +25,7 @@ _August 2024 – December 2025_
   MobileNetV2 was proved to be the lightweight solution for cost-effective depth estimation.  
 - **Impact of Spatial and Temporal Resolution on Rainfall Prediction**  
   Analyzed the impact of spatial and temporal resolution on rainfall predictions for optimizing agriculture planning and irrigation schedules.
-  The [CHIRPS v2.0] (https://www.chc.ucsb.edu/data/chirps/) daily precipitation dataset was used for 10-year intervals.  
+  The [CHIRPS v2.0](https://www.chc.ucsb.edu/data/chirps/) daily precipitation dataset was used for 10-year intervals.  
   Implemented regression, ARIMA, Tree-based models (RF, GB, XGBoost, and advanced LSTM models to observe prediction accuracy.  
 
 **Upcoming Coursework (Spring 2025):**  
@@ -69,7 +69,7 @@ _February 2017 – June 2019_
 ---
 
 ## Research Publications
-- **Dey, P., Hossain, E., et al.** "Comparative Analysis of Recurrent Neural Networks in Stock Price Prediction for Different Frequency Domains." _Algorithms_, vol. 14, no. 251, 2021. [Indexed in WoS and SCOPUS]([Link)] (https://www.doi.org/10.3390/a14080251)  
+- **Dey, P., Hossain, E., et al.** "Comparative Analysis of Recurrent Neural Networks in Stock Price Prediction for Different Frequency Domains." _Algorithms_, vol. 14, no. 251, 2021. [Indexed in WoS and SCOPUS]([Link])(https://www.doi.org/10.3390/a14080251)  
   - Focused on enhancing predictive analytics for time series data in economic forecasting.
 
 ---
