@@ -69,7 +69,7 @@ _February 2017 – June 2019_
 ---
 
 ## Research Publications
-- **Dey, P., Hossain, E., et al.** "Comparative Analysis of Recurrent Neural Networks in Stock Price Prediction for Different Frequency Domains." _Algorithms_, vol. 14, no. 251, 2021. [Indexed in WoS and SCOPUS] ([Link])(https://www.doi.org/10.3390/a14080251)  
+- **Dey, P., Hossain, E., et al.** "Comparative Analysis of Recurrent Neural Networks in Stock Price Prediction for Different Frequency Domains." _Algorithms_, vol. 14, no. 251, 2021. [Indexed in WoS and SCOPUS] ([Link](https://www.doi.org/10.3390/a14080251) ) 
   - Focused on enhancing predictive analytics for time series data in economic forecasting.
  
 ---
