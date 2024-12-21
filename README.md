@@ -20,13 +20,13 @@ _August 2024 – December 2025_
 
 **Academic Projects:**  
 - **Lightweight Deep Learning Model for Monocular Depth Estimation**  
-  Implemented several CNN models(MobileNet, ResNet, EfficientNet, etc.) to predict depth maps from single indoor images using [NYU Depth V2](https://www.tensorflow.org/datasets/catalog/nyu_depth_v2) dataset.
-  Iteratively refined hyperparameters, introducing optimizers and LR schedulers, to strike a balance between performance and accuracy in resource-constrained environments.
-  MobileNetV2 was proved to be the lightweight solution for cost-effective depth estimation.  
+  - Implemented several CNN models(MobileNet, ResNet, EfficientNet, etc.) to predict depth maps from single indoor images using [NYU Depth V2](https://www.tensorflow.org/datasets/catalog/nyu_depth_v2) dataset.
+  - Iteratively refined hyperparameters, introducing optimizers and LR schedulers, to strike a balance between performance and accuracy in resource-constrained environments.
+  - MobileNetV2 was proved to be the lightweight solution for cost-effective depth estimation.  
 - **Impact of Spatial and Temporal Resolution on Rainfall Prediction**  
-  Analyzed the impact of spatial and temporal resolution on rainfall predictions for optimizing agriculture planning and irrigation schedules.
-  The [CHIRPS v2.0](https://www.chc.ucsb.edu/data/chirps/) daily precipitation dataset was used for 10-year intervals.  
-  Implemented regression, ARIMA, Tree-based models (RF, GB, XGBoost, and advanced LSTM models to observe prediction accuracy.  
+  - Analyzed the impact of spatial and temporal resolution on rainfall predictions for optimizing agriculture planning and irrigation schedules.
+  - The [CHIRPS v2.0](https://www.chc.ucsb.edu/data/chirps/) daily precipitation dataset was used for 10-year intervals.  
+  - Implemented regression, ARIMA, Tree-based models (RF, GB, XGBoost, and advanced LSTM models to observe prediction accuracy.  
 
 **Upcoming Coursework (Spring 2025):**  
 - Introduction to Computer Vision, Artificial Intelligence, Introduction to Cyber Security, Database Systems.
