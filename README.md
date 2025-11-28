@@ -1,8 +1,6 @@
 # Md Ishtiaque Hossain
 
-**Phone:** +1 929 422 4820  
-**Email:** ishtiaque.hossain92@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/ishtiaque-h/) | [GitHub](https://github.com/Ishtiaque-h)
+**Email:** ishtiaque.hossain92@gmail.com | **Phone:** +1 929 422 4820 | [LinkedIn](https://www.linkedin.com/in/ishtiaque-h/) | [GitHub](https://github.com/Ishtiaque-h)
 
 ---
 
